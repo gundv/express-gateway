@@ -104,7 +104,7 @@
     "vhost": "3.0.2",
     "winston": "3.2.1",
     "yargs": "^14.0.0",
-    "yawn-yaml": "1.4.0",
+    "yawn-yaml": "2.2.0",
     "yeoman-environment": "^2.4.0",
     "yeoman-generator": "^3.2.0"
   },

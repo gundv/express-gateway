@@ -95,7 +95,7 @@
     "passport-oauth2-client-password": "0.1.2",
     "proxy-agent": "^6.4.0",
     "rate-limit-redis": "^1.6.0",
-    "semver": "^6.3.0",
+    "semver": "^7.6.2",
     "superagent": "^5.1.0",
     "superagent-logger": "^1.1.0",
     "superagent-prefix": "0.0.2",

@@ -114,7 +114,7 @@
     "codecov": "^3.5.0",
     "cpr": "^3.0.1",
     "cross-env": "^7.0.3",
-    "eslint": "^6.3.0",
+    "eslint": "^8.57.0",
     "eslint-config-standard": "^14.1.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-node": "^10.0.0",

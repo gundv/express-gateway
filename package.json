@@ -132,7 +132,7 @@
     "should": "^13.2.3",
     "sinon": "^7.4.2",
     "supertest": "^4.0.2",
-    "supertest-session": "^4.0.0",
+    "supertest-session": "^5.0.1",
     "tmp": "^0.2.3",
     "yeoman-test": "^1.9.1"
   },

@@ -70,7 +70,7 @@
     "color-convert": "^1.9.3",
     "connect-ensure-login": "0.1.1",
     "cors": "^2.8.5",
-    "ejs": "^2.7.1",
+    "ejs": "^3.1.10",
     "express": "^4.17.1",
     "express-rate-limit": "^2.14.2",
     "express-session": "^1.16.2",
@@ -87,7 +87,7 @@
     "minimatch": "^3.0.4",
     "oauth2orize": "^1.11.0",
     "parent-require": "^1.0.0",
-    "passport": "^0.4.0",
+    "passport": "^0.6.0",
     "passport-http": "0.3.0",
     "passport-http-bearer": "1.0.1",
     "passport-jwt": "^4.0.0",
@@ -105,8 +105,8 @@
     "winston": "3.2.1",
     "yargs": "^14.0.0",
     "yawn-yaml": "2.2.0",
-    "yeoman-environment": "^2.4.0",
-    "yeoman-generator": "^3.2.0"
+    "yeoman-environment": "^4.4.1",
+    "yeoman-generator": "^7.2.0"
   },
   "devDependencies": {
     "@types/express": "^4.17.1",
@@ -134,7 +134,7 @@
     "supertest": "^4.0.2",
     "supertest-session": "^4.0.0",
     "tmp": "^0.2.3",
-    "yeoman-test": "^1.9.1"
+    "yeoman-test": "^8.3.0"
   },
   "yargs": {
     "boolean-negation": false

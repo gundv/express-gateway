@@ -51,7 +51,7 @@ jobs:
 
   "update-docker-repo":
     docker:
-      - image: node:10-alpine
+      - image: node:10.24.1-alpine
     working_directory: ~/repo
 
     steps:

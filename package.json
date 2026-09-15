@@ -84,7 +84,7 @@
     "json-schema-ref-parser": "^9.0.9",
     "jsonwebtoken": "^9.0.2",
     "lodash.flatmap": "^4.5.0",
-    "minimatch": "^3.0.4",
+    "minimatch": "^5.0.0",
     "oauth2orize": "^1.11.0",
     "parent-require": "^1.0.0",
     "passport": "^0.6.0",
